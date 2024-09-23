@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pfwuvm9lSWw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tw811f\\source\\repos\\UrlShortner\\UrlShortner\\UrlShortner.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tw811f\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

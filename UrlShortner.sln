@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlShortner.Web", "UrlShortner\UrlShortner.Web.csproj", "{54F319A1-A33D-4CE6-8905-53122A9E325B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlShortner.Application", "UrlShortner.Core\UrlShortner.Application.csproj", "{854920FF-CA51-42B2-BC7A-328118F23339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54F319A1-A33D-4CE6-8905-53122A9E325B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F319A1-A33D-4CE6-8905-53122A9E325B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F319A1-A33D-4CE6-8905-53122A9E325B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F319A1-A33D-4CE6-8905-53122A9E325B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{854920FF-CA51-42B2-BC7A-328118F23339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854920FF-CA51-42B2-BC7A-328118F23339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854920FF-CA51-42B2-BC7A-328118F23339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{854920FF-CA51-42B2-BC7A-328118F23339}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB067106-3502-42C1-A5D8-1192304537E0}
+	EndGlobalSection
+EndGlobal
